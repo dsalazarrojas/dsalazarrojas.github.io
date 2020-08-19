@@ -90,7 +90,7 @@ Keep informed of our news about the app and special offers
 
 28/Feb/2020
 
-[All current features](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20features.html)
+[All current features](https://gic.mx/GIC%20Collect%20features.html)
 
 [GIC Collect examples](https://github.com/dsalazarrojas/Odk-Collect-for-IOS/tree/master/examples)
 
@@ -149,11 +149,11 @@ Keep informed of our news about the app and special offers
 - Connect now also to enketo, kobotoolbox and ona.io
 - Minor fixes and optimizations.
 
-[What's new](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/What's%20new.html)
-[All current features](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20features.html)
-[Contact us](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/Contact-Us.html)
-[Privacy Policy](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/Privacy-Policy.html)
-[Training Course](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20for%20IOS%20Compatible%20with%20ODK%20Training%20Course.html)
-[Manual (English)](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GICCollectManualEnglish/ManualGICCollectEnglish.html)
-[Manual (Español)](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GICCollectManualEspanol/ManualGICCollectEspanol.html)
+[What's new](https://gic.mx/What's%20new.html)
+[All current features](https://gic.mx/GIC%20Collect%20features.html)
+[Contact us](https://gic.mx/Contact-Us.html)
+[Privacy Policy](https://gic.mx/Privacy-Policy.html)
+[Training Course](https://gic.mx/GIC%20Collect%20for%20IOS%20Compatible%20with%20ODK%20Training%20Course.html)
+[Manual (English)](https://gic.mx/GICCollectManualEnglish/ManualGICCollectEnglish.html)
+[Manual (Español)](https://gic.mx/GICCollectManualEspanol/ManualGICCollectEspanol.html)
 

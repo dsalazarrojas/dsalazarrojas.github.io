@@ -1,5 +1,8 @@
 # GIC Collect for IOS compatible with (Open Data Kit) ODK Collect 
 
+![](https://gic.mx/GIC_Collect_Logo.png "GIC Collect Logo")
+
+
 # About
 
 This is our port of the open data kit collect for IOS. Most of the functions are available. The forms developed for odk should work mostly without changes. We have been developing and testing this port for quite some time. 
@@ -23,7 +26,7 @@ GIC Collect supports multimedia answers and questions via gps, images, audio, vi
 
 # Current features
 
-[All current features](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20features.html)
+[All current features](https://gic.mx/GIC%20Collect%20features.html)
 
 # Examples
 
@@ -108,13 +111,13 @@ Users are the data controllers of the data they collect using GIC Collect and ar
 HOW DO WE PROTECT YOUR DATA?
 GIC Collect is committed to protecting the data you entrust to us. We employ industry standard best practices (both technical and administrative) to protect against unauthorized access of your data. We cannot guarantee, however, its absolute security. To protect from loss of data, we recommend frequent system and incremental backups of your device which should stored encrypted in various locations. To further protect your data, we encourage you to never to share your login information and to change your passwords regularly. 
 
-[What's new](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/What's%20new.html)
-[All current features](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20features.html)
-[Contact us](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/Contact-Us.html)
-[Privacy Policy](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/Privacy-Policy.html)
-[Training Course](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20for%20IOS%20Compatible%20with%20ODK%20Training%20Course.html)
-[Manual (English)](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GICCollectManualEnglish/ManualGICCollectEnglish.html)
-[Manual (Español)](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GICCollectManualEspanol/ManualGICCollectEspanol.html)
+[What's new](https://gic.mx/What's%20new.html)
+[All current features](https://gic.mx/GIC%20Collect%20features.html)
+[Contact us](https://gic.mx/Contact-Us.html)
+[Privacy Policy](https://gic.mx/Privacy-Policy.html)
+[Training Course](https://gic.mx/GIC%20Collect%20for%20IOS%20Compatible%20with%20ODK%20Training%20Course.html)
+[Manual (English)](https://gic.mx/GICCollectManualEnglish/ManualGICCollectEnglish.html)
+[Manual (Español)](https://gic.mx/GICCollectManualEspanol/ManualGICCollectEspanol.html)
 
 
 

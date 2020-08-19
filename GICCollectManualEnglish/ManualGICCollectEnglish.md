@@ -74,11 +74,11 @@ After you enter the server data select the accept button. The application will t
 The most common error are to have the address wrong, or the user or password. The other most common error is to have a connection error, please also check your connectivity. 
 
 
-[What's new](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/What's%20new.html)
-[All current features](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20features.html)
-[Contact us](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/Contact-Us.html)
-[Privacy Policy](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/Privacy-Policy.html)
-[Training Course](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GIC%20Collect%20for%20IOS%20Compatible%20with%20ODK%20Training%20Course.html)
-[Manual (English)](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GICCollectManualEnglish/ManualGICCollectEnglish.html)
-[Manual (Español)](https://dsalazarrojas.github.io/Odk-Collect-for-IOS/GICCollectManualEspanol/ManualGICCollectEspanol.html)
+[What's new](https://gic.mx/What's%20new.html)
+[All current features](https://gic.mx/GIC%20Collect%20features.html)
+[Contact us](https://gic.mx/Contact-Us.html)
+[Privacy Policy](https://gic.mx/Privacy-Policy.html)
+[Training Course](https://gic.mx/GIC%20Collect%20for%20IOS%20Compatible%20with%20ODK%20Training%20Course.html)
+[Manual (English)](https://gic.mx/GICCollectManualEnglish/ManualGICCollectEnglish.html)
+[Manual (Español)](https://gic.mx/GICCollectManualEspanol/ManualGICCollectEspanol.html)
 
