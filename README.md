@@ -1,6 +1,6 @@
 # GIC Collect for IOS compatible with (Open Data Kit) ODK Collect 
 
-![](https://gic.mx/GIC_Collect_Logo_128_.png "GIC Collect Logo")
+![](https://gic.mx/GIC_Collect_Logo_128.png "GIC Collect Logo")
 
 # About
 
