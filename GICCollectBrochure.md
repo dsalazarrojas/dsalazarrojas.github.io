@@ -70,7 +70,7 @@ Email: [collect@gic.mx](mailto:collect@gic.mx)
 
 LinkedIn: [https://linkedin.com/in/daniel-salazar-0009742](https://linkedin.com/in/daniel-salazar-0009742)
 
-Youtube: https://www.youtube.com/watch?v=sNunIzfThGg
+Youtube: [https://www.youtube.com/watch?v=sNunIzfThGg]
 
 # Agregate a nuestra lista de correos
 
