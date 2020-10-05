@@ -4,13 +4,13 @@
 
 # Acerca de GIC Collect
 
-Es una aplicación para celulares (iphone y android) usada en la colecta de datos basada en cuestionarios. Funciona sin conexión a red y manejar un amplio rango de tipos de preguntas y respuestas. GIC Collect muestra los cuestionarios como una serie de preguntas que tienen lógica en el cuestionario, tienen restricciones y subestructuras que se pueden repetir. Los usuarios responden las preguntas y pueden guardar su trabajo en cualquier punto y continuarlo mas tarde. Cuando el usuario finaliza el cuestionario puede enviarlo a un servidor. El usuario puede descargar una nueva forma y llenar un nuevo cuestionario con preguntas diferentes. 
+Es una aplicación para celulares (iphone y android) usada en la colecta de datos basada en cuestionarios. Dependiendo de la funcionalidad requerida puede funcionar como un generador de aplicaciones en ambas plataformas. Funciona sin conexión a red y manejar un amplio rango de tipos de preguntas y respuestas. GIC Collect muestra los cuestionarios como una serie de preguntas que tienen lógica en el cuestionario, tienen restricciones y subestructuras que se pueden repetir. Los usuarios responden las preguntas y pueden guardar su trabajo en cualquier punto y continuarlo mas tarde. Cuando el usuario finaliza el cuestionario puede enviarlo a un servidor. El usuario puede descargar una nueva forma y llenar un nuevo cuestionario con preguntas diferentes. 
 
 GIC Collect soporta respuestas multimedia y preguntas via gps, imagenes, audio, video, codigos de barra, firmas, opción multiple, texto libre y númericas.
 
 # Objetivos de GIC Collect
 
-- Gran compatibilidad de formas con el estandar xForms (ODK Collect, sólo disponible en android) y todo el ecosistema alrededor de este estandar.
+- Gran compatibilidad de formas con el estandar xForms (disponible en varias plataformas) y todo el ecosistema alrededor de este estandar.
 - Conexión en línea unicamente necesaria para bajar las formas y enviar los resultados. No es necesaria durante la respuestas del cuestionario.
 - Manejo multilenguaje.
 
@@ -18,7 +18,7 @@ GIC Collect soporta respuestas multimedia y preguntas via gps, imagenes, audio, 
 
 Costos muy bajos de desarrollo, hosting y equipo.
 
-El hosting puede ser totalmente gratis usando alguna de las plataformas que soportan xforms, como KoBoToolbox, ona.io y se puede también usar directamente google sheets y google drive para tener el hosting. El uso de estas plataformas nos dan cero costos de administración y de hosting. Dependiendo del volumen de datos. En caso de requerir un volumen mas alto de datos puede existir algún costo. Si se requiere mas seguridad o hosting interno se puede instalar odk aggregate, que no tiene costo, y tener el hosting inhouse.
+El hosting puede ser usando alguna de las plataformas que soportan en servidores corporativos con conexión a sus bases de datos o alguna plataforma xforms, como KoBoToolbox, ona.io y se puede también usar directamente google sheets y google drive para tener el hosting. El uso de estas plataformas abiertas nos pueden dar costos muy bajos de administración y de hosting y control total de nuestra información. Si se requiere mas seguridad o hosting interno se puede instalar en servidores de la empresa y tener el hosting inhouse.
 
 # Equipos
 
@@ -26,7 +26,7 @@ Al soportar gic collect los sistemas operativos iPhone y android se pueden usar 
 
 # Costos de desarrollo
 
-El tiempo de implementación se baja a una fracción muy pequeña de los tiempos de implementación de otras herramientas similares. Se diseña la forma en Excel de manera muy rápida y sencilla, se sube al servidor y se hace la distribución a todos los equipos que lo requieren. Una colecta de menos de 20 o 30 preguntas se puede crear, probar y subir a servidores en pocas horas. Manteniendo los estándares de captura de la información usando validaciones, catálogos, condicionales, tipos de datos, etc. 
+El tiempo de implementación se baja a una fracción muy pequeña de los tiempos de implementación de otras herramientas similares. Se diseña la forma en Excel de manera muy rápida y sencilla, se sube al servidor y se hace la distribución a todos los equipos que lo requieren. Una colecta de datos o aplicación creada con esta aplicación, de menos de 20 o 30 preguntas y sólo algunas pantallas se puede crear, probar y subir a servidores en muy poco tiempo. Manteniendo los estándares de captura de la información usando validaciones, catálogos, condicionales, tipos de datos, etc. 
 
 # Trabaja offline.
 
@@ -38,11 +38,11 @@ La aplicación permite capturar firmas, fotografías, localizaciones gps (shapes
 
 # Conectividad a otras aplicaciones
 
-Los datos colectados se pueden enviar a archivos csv, excel, sql, salesforces y otros sistemas. Y de ahi a sistemas para análisis de datos.
+Los datos colectados se pueden enviar a archivos csv, excel, sql, salesforces y otros sistemas. Y de ahi a sistemas para análisis de datos o bases de datos corporativas.
 
 # Tecnologia probada durante años
 
-La tecnologia de xforms se esta utilizando desde hace mas de diez anos para levantar información en todo el mundo. Actualmente hay equipos de varios miles de personas en Honduras, Ghana y el resto del mundo colectando información respecto al Covid-19. Con diferentes equipos de colecta, android, iOS. En algunos lugares con poca conectividad. Hay miles de estudios y millones de respuestas al año con diferentes necesidades y capacidades de los equipos, desde colectas con pocas preguntas y uno o dos auditores, hasta colectas con algunos cientos de preguntas y miles de auditores. 
+La tecnologia de xforms se esta utilizando desde hace mas de diez anos para levantar información en todo el mundo. Actualmente hay equipos de varios miles de personas en varios paises del mundo colectando información respecto al Covid-19 y usado en varias empresas para investigación de mercados y aplicaciones para equipos de trabajo de empresas remotos, auditores, vendedores, demostradores, choferes, etc. Con diferentes equipos de colecta, android, iOS. En algunos lugares con poca conectividad. Hay miles de estudios y millones de respuestas al año con diferentes necesidades y capacidades de los equipos, desde colectas con pocas preguntas y uno o dos auditores, hasta colectas con algunos cientos de preguntas y miles de auditores. 
 
 # Escalabilidad
 
@@ -50,11 +50,12 @@ Te permite usar la herramienta en proyectos muy simples de activaciones BTL con 
 
 # GIC Servicios
 
-- Licencias y modificaciones  a GIC Collect para android y para ios. Se puede usar gic collect de manera totalmente gratis con algunas limitaciones en el número de colectas mensuales y número de preguntas.
+- Licencias y modificaciones  a GIC Collect para android y para ios. 
 - Creación de estudios de colecta
-- Instalaciones de ambientes para GIC  Collect
+- Capacitación y puesta a andar de aplicaciones para equipos de trabajo.
+- Instalaciones de ambientes para GIC  Collect (servidores, equipos android, equipos iphone)
 - Instalación y/o programación de conectividad de GIC Collect a sistemas corporativos
-- Cursos de GIC Collect, ODK Xforms, creación de formas de colecta en Excel
+- Cursos de GIC Collect, Xforms, creación de formas de colecta en Excel
 
 # Ejemplos
 
